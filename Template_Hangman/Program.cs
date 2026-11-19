@@ -54,7 +54,7 @@ while (lives > 0 && shown != word)
 
     Console.WriteLine("Liv kvar: " + lives);
 
-    Console.WriteLine("Gissa en bokstav:");
+    Console.WriteLine("Gissa en bokstav wlak:");
 
     string input = Console.ReadLine();
     //Max en bokstav tillåts eller om en ogiltig längd matas in så det inte kraschas.
@@ -62,7 +62,7 @@ while (lives > 0 && shown != word)
 
     {
 
-        Console.WriteLine("Skriv exakt en bokstav.");
+        Console.WriteLine("Skriv exakt en bokstav Cringe....");
 
     }
 
